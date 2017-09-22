@@ -19,6 +19,7 @@
 		906D089F1F694F8D0003169F /* ARKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 906D089E1F694F8D0003169F /* ARKit.framework */; };
 		906D08A71F6950920003169F /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 906D08A51F6950920003169F /* art.scnassets */; };
 		906D08A81F6950920003169F /* AudiR8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 906D08A61F6950920003169F /* AudiR8.swift */; };
+		9098C5831F754B280048A971 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9098C5821F754B280048A971 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		906D089E1F694F8D0003169F /* ARKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ARKit.framework; path = System/Library/Frameworks/ARKit.framework; sourceTree = SDKROOT; };
 		906D08A51F6950920003169F /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		906D08A61F6950920003169F /* AudiR8.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AudiR8.swift; sourceTree = "<group>"; };
+		9098C5821F754B280048A971 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 		906D08791F69495E0003169F = {
 			isa = PBXGroup;
 			children = (
+				9098C5821F754B280048A971 /* README.md */,
 				906D08841F69495E0003169F /* TmpAR */,
 				906D08831F69495E0003169F /* Products */,
 				906D089D1F694F8C0003169F /* Frameworks */,
@@ -179,6 +182,7 @@
 			files = (
 				906D08901F69495E0003169F /* LaunchScreen.storyboard in Resources */,
 				906D08A71F6950920003169F /* art.scnassets in Resources */,
+				9098C5831F754B280048A971 /* README.md in Resources */,
 				906D088D1F69495E0003169F /* Assets.xcassets in Resources */,
 				906D088B1F69495E0003169F /* Main.storyboard in Resources */,
 			);

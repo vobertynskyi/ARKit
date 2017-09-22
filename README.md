@@ -11,6 +11,6 @@ This is the test project for investigation and testing ARKit by apple.
 - use the main framework
 - use ARSession
 - found and improved car model
-![car model - AUDI R8](ARKit/carModel.png)
+![car model - AUDI R8](https://github.com/vobertynskyi/ARKit/blob/master/carModel.png?raw=true)
 - implemented square focus
 - implemented functionality for calculating Z coordinate
